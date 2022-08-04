@@ -13,13 +13,25 @@
   <body>
     <h1>Users</h1>
 <?
-use Week3\FileReader;
+//use FileReader;
 require_once 'FileReader.php';
 
 $filename = 'data.json';
 $jsonFile = new FileReader();
-$users = $jsonFile->readFile($filename);
-print_r($users);
+try
+{
+$value = $jsonFile->readFile($filename);
+$users = json_encode($value);
+echo $users;
+}
+catch(FileNotFoundException $e)
+{
+  echo  " The File $filename not found.";
+}
+catch(BadJsonException $e)
+{
+  echo  "Contents of $filename could not be decoded into json.";
+}
 ?>
   </body>
 </html>
