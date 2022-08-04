@@ -1,0 +1,18 @@
+ [
+      {
+        "gender": "female",
+        "name": "Hellen Blake"
+      },
+      {
+        "gender": "Male",
+        "name": "Emeka Obi"
+      },
+      {
+        "gender": "female",
+        "name": "Ada Lovelace"
+      },
+      {
+        "gender": "Male",
+        "name": "John Doe"
+      }
+    ]
