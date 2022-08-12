@@ -8,6 +8,6 @@ class HigherSecondaryStudents extends Students
     }
     public function payFees()
     {
-        return "Paying from Primary Higher Secondary Student class";
+        return "Paying from Higher Secondary Student class";
     }
 }
