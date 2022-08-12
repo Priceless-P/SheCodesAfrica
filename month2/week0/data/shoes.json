@@ -1,0 +1,62 @@
+[
+    {
+        "name":"Office Shoe",
+        "price": "N25,000",
+        "excerpt": "Shoe excerpt",
+        "description":"Description will come later",
+        "category": "Shoe",
+        "size": "42",
+        "color": "nude",
+        "gender": "Male",
+        "type": "Casual",
+        "is_available": "true"
+    },
+    {
+        "name":"Classic Shoe",
+        "price": "N10,000",
+        "excerpt": "Shoe excerpt",
+        "description":"Description will come later",
+        "category": "Shoe",
+        "size": "38",
+        "color": "blue",
+        "gender": "Female",
+        "type": "Sneakers",
+        "is_available": "true"
+    },
+    {
+        "name":"Comfortable Shoe",
+        "price": "N9,000",
+        "excerpt": "Shoe excerpt",
+        "description":"Description will come later",
+        "category": "Shoe",
+        "size": "39",
+        "color": "Red",
+        "gender": "Female",
+        "type": "Flats",
+        "is_available": "false"
+    },
+    {
+        "name":"Sport Shoe",
+        "price": "N15,000",
+        "excerpt": "Shoe excerpt",
+        "description":"Description will come later",
+        "category": "Shoe",
+        "size": "41",
+        "color": "white",
+        "gender": "Male",
+        "type": "Sneakers",
+        "is_available": "true"
+    },
+    {
+        "name":"3 inches High heel",
+        "price": "N35,000",
+        "excerpt": "Shoe excerpt",
+        "description":"Description will come later",
+        "category": "Shoe",
+        "size": "40",
+        "color": "black",
+        "gender": "Female",
+        "type": "Heels",
+        "is_available": "true"
+    }
+]

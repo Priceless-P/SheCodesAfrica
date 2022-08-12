@@ -1,0 +1,62 @@
+[
+    {
+        "name":"Tecno",
+        "price": "N50,0000",
+        "excerpt": "Tecno Spark 7 mobile was launched on 9th April 2021. The phone comes with a 6.52-inch touchscreen display offering a resolution of 720x1600 pixels and an aspect ratio of 20:9.",
+        "description":"Tecno Spark 7 is powered by a 1.8GHz octa-core MediaTek Helio A25 processor. It comes with 2GB, 3GB of RAM. The Tecno Spark 7 runs Android 11 and is powered by a 6000mAh battery.As far as the cameras are concerned, the Tecno Spark 7 on the rear packs a 16-megapixel camera with an f/1.8 aperture. The rear camera setup has autofocus. It has a single front camera setup for selfies, featuring an 8-megapixel sensor with an f/2.0 aperture.",
+        "category":"Gadgets",
+        "model": "Spark 7",
+        "weight": "2",
+        "type": "Phone",
+        "is_available": "true",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLXzcDvzY2aoE-yMOJ7C96f5iAqftTJ5OCQ&usqp=CAU"
+    },
+    {
+        "name":"Macbook",
+        "price": "N300,0000",
+        "excerpt": "Tecno Spark 7 mobile was launched on 9th April 2021. The phone comes with a 6.52-inch touchscreen display offering a resolution of 720x1600 pixels and an aspect ratio of 20:9.",
+        "description":"Tecno Spark 7 is powered by a 1.8GHz octa-core MediaTek Helio A25 processor. It comes with 2GB, 3GB of RAM. The Tecno Spark 7 runs Android 11 and is powered by a 6000mAh battery.As far as the cameras are concerned, the Tecno Spark 7 on the rear packs a 16-megapixel camera with an f/1.8 aperture. The rear camera setup has autofocus. It has a single front camera setup for selfies, featuring an 8-megapixel sensor with an f/2.0 aperture.",
+        "category":"Gadgets",
+        "model": "Air 2014",
+        "weight": "3.2",
+        "type": "Laptop",
+        "is_available": "true",
+        "img":""
+    },
+    {
+        "name":"Infinix",
+        "price": "N65,0000",
+        "excerpt": "Tecno Spark 7 mobile was launched on 9th April 2021. The phone comes with a 6.52-inch touchscreen display offering a resolution of 720x1600 pixels and an aspect ratio of 20:9.",
+        "description":"Tecno Spark 7 is powered by a 1.8GHz octa-core MediaTek Helio A25 processor. It comes with 2GB, 3GB of RAM. The Tecno Spark 7 runs Android 11 and is powered by a 6000mAh battery.As far as the cameras are concerned, the Tecno Spark 7 on the rear packs a 16-megapixel camera with an f/1.8 aperture. The rear camera setup has autofocus. It has a single front camera setup for selfies, featuring an 8-megapixel sensor with an f/2.0 aperture.",
+        "category":"Gadgets",
+        "model": "Smart 5",
+        "weight": "1",
+        "type": "Phone",
+        "is_available": "false",
+        "img":""
+    },
+    {
+        "name":"Dell",
+        "price": "N150,0000",
+        "excerpt": "Tecno Spark 7 mobile was launched on 9th April 2021. The phone comes with a 6.52-inch touchscreen display offering a resolution of 720x1600 pixels and an aspect ratio of 20:9.",
+        "description":"Tecno Spark 7 is powered by a 1.8GHz octa-core MediaTek Helio A25 processor. It comes with 2GB, 3GB of RAM. The Tecno Spark 7 runs Android 11 and is powered by a 6000mAh battery.As far as the cameras are concerned, the Tecno Spark 7 on the rear packs a 16-megapixel camera with an f/1.8 aperture. The rear camera setup has autofocus. It has a single front camera setup for selfies, featuring an 8-megapixel sensor with an f/2.0 aperture.",
+        "category":"Gadgets",
+        "model": "Dell",
+        "weight": "5",
+        "type": "Laptop",
+        "is_available": "true",
+        "img":""
+    },
+    {
+        "name":"IPhone",
+        "price": "N200,0000",
+        "excerpt": "Tecno Spark 7 mobile was launched on 9th April 2021. The phone comes with a 6.52-inch touchscreen display offering a resolution of 720x1600 pixels and an aspect ratio of 20:9.",
+        "description":"Tecno Spark 7 is powered by a 1.8GHz octa-core MediaTek Helio A25 processor. It comes with 2GB, 3GB of RAM. The Tecno Spark 7 runs Android 11 and is powered by a 6000mAh battery.As far as the cameras are concerned, the Tecno Spark 7 on the rear packs a 16-megapixel camera with an f/1.8 aperture. The rear camera setup has autofocus. It has a single front camera setup for selfies, featuring an 8-megapixel sensor with an f/2.0 aperture.",
+        "category":"Gadgets",
+        "model": "11 pro max",
+        "weight": "1.5",
+        "type": "Phone",
+        "is_available": "true",
+        "img":""
+    }
+]

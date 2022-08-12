@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Things fall apart",
+        "price": "N3,500",
+        "excerpt": "Book overview",
+        "description":"Description will come later",
+        "category":"Book",
+        "author": "John Doe",
+        "pages": "102",
+        "type": "Fiction",
+        "is_available": "true"
+    },
+    {
+        "name":"Royal Hibicus",
+        "price": "N3,500",
+        "excerpt": "Book overview",
+        "description":"Description will come later",
+        "category":"Book",
+        "author": "Steve Harry",
+        "pages": "35",
+        "type": "Documentry",
+        "is_available": "true"
+    },
+    {
+        "name":"The Gods are not to be blamed",
+        "price": "N5,500",
+        "excerpt": "Book overview",
+        "description":"Description will come later",
+        "category":"Book",
+        "author": "Myself",
+        "pages": "320",
+        "type": "Non-Fiction",
+        "is_available": "false"
+    },
+    {
+        "name":"As it should be",
+        "price": "N15, 00",
+        "excerpt": "Book overview",
+        "description":"Description will come later",
+        "category":"Gadgets",
+        "author": "Jeeny White",
+        "pages": "209",
+        "type": "Fiction",
+        "is_available": "true"
+    },
+    {
+        "name":"Rich Dad, Poor Dad",
+        "price": "N1,900",
+        "excerpt": "Book overview",
+        "description":"Description will come later",
+        "category":"Book",
+        "author": "Alisson Jay",
+        "pages": "88",
+        "type": "Non-Fiction",
+        "is_available": "true"
+    }
+]
