@@ -3,7 +3,7 @@
  * This class connects to the database using PDO
  */
 class Database {
-	private $host = localhost;
+	private $host = 'localhost';
 	private $dbname = DB_NAME;
 	private $user = DB_USER;
 	private $password = DB_PASSWORD;

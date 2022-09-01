@@ -19,9 +19,6 @@
   <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
     <a class="navbar-brand" href="/">CBT Test</a>
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-      <li class="nav-item">
-         <a href=" addproduct" name="ADD" role="button" class="btn btn-danger add">ADD</a>
-      </li>
     </ul>
   </div>
 </nav>
