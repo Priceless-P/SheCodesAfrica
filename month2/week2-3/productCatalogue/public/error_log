@@ -1,0 +1,37 @@
+[16-Sep-2022 23:31:36 UTC] PHP Notice:  Undefined index: checkboxes in /home/priscapr/public_html/catalogue/app/controllers/Products.php on line 31
+[16-Sep-2022 23:31:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/priscapr/public_html/catalogue/app/controllers/Products.php on line 32
+[16-Sep-2022 23:31:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[16-Sep-2022 23:35:53 UTC] PHP Notice:  Undefined index: checkboxes in /home/priscapr/public_html/catalogue/app/controllers/Products.php on line 21
+[16-Sep-2022 23:35:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/priscapr/public_html/catalogue/app/controllers/Products.php on line 22
+[16-Sep-2022 23:35:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 02:27:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 02:50:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 02:53:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 02:56:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 02:57:00 UTC] PHP Notice:  Undefined index: checkboxes in /home/priscapr/public_html/catalogue/app/controllers/Products.php on line 21
+[17-Sep-2022 02:57:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/priscapr/public_html/catalogue/app/controllers/Products.php on line 22
+[17-Sep-2022 02:57:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 02:58:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 02:58:43 UTC] PHP Notice:  Undefined index: checkboxes in /home/priscapr/public_html/catalogue/app/controllers/Products.php on line 21
+[17-Sep-2022 02:58:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/priscapr/public_html/catalogue/app/controllers/Products.php on line 22
+[17-Sep-2022 02:58:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 02:59:02 UTC] PHP Notice:  Undefined index: filename in /home/priscapr/public_html/catalogue/app/controllers/Addproduct.php on line 12
+[17-Sep-2022 02:59:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/controllers/Addproduct.php on line 12
+[17-Sep-2022 02:59:02 UTC] PHP Notice:  Undefined index: filename in /home/priscapr/public_html/catalogue/app/controllers/Addproduct.php on line 13
+[17-Sep-2022 02:59:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/controllers/Addproduct.php on line 13
+[17-Sep-2022 03:01:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 03:01:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[17-Sep-2022 03:02:46 UTC] PHP Notice:  Undefined index: filename in /home/priscapr/public_html/catalogue/app/controllers/Addproduct.php on line 12
+[17-Sep-2022 03:02:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/controllers/Addproduct.php on line 12
+[17-Sep-2022 03:02:46 UTC] PHP Notice:  Undefined index: filename in /home/priscapr/public_html/catalogue/app/controllers/Addproduct.php on line 13
+[17-Sep-2022 03:02:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/controllers/Addproduct.php on line 13
+[17-Sep-2022 03:03:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[18-Sep-2022 09:43:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[18-Sep-2022 09:43:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[18-Sep-2022 09:43:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[18-Sep-2022 14:08:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[18-Sep-2022 14:08:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[18-Sep-2022 14:08:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[19-Sep-2022 22:43:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[19-Sep-2022 22:43:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15
+[19-Sep-2022 23:42:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/catalogue/app/libraries/Core.php on line 15

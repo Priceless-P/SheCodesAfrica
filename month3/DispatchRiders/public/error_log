@@ -1,0 +1,52 @@
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 204
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Trying to get property 'routes' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 204
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 225
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Trying to get property 'routes' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 225
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 237
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Trying to get property 'type_of_delivery' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 237
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 249
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Trying to get property 'days_of_work' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 249
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 261
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Trying to get property 'time_of_work' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 261
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 273
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Trying to get property 'vehicle_type' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 273
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 285
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 285
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 299
+[20-Sep-2022 23:35:34 UTC] PHP Notice:  Trying to get property 'filename' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 299
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 204
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Trying to get property 'routes' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 204
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 225
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Trying to get property 'routes' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 225
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 237
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Trying to get property 'type_of_delivery' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 237
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 249
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Trying to get property 'days_of_work' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 249
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 261
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Trying to get property 'time_of_work' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 261
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 273
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Trying to get property 'vehicle_type' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 273
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 285
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 285
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 299
+[20-Sep-2022 23:41:00 UTC] PHP Notice:  Trying to get property 'filename' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 299
+[20-Sep-2022 23:42:08 UTC] PHP Warning:  move_uploaded_file(images/dekkkk.jpeg): failed to open stream: No such file or directory in /home/priscapr/public_html/app/controllers/Riders.php on line 130
+[20-Sep-2022 23:42:08 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJdofkX' to 'images/dekkkk.jpeg' in /home/priscapr/public_html/app/controllers/Riders.php on line 130
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 204
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Trying to get property 'routes' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 204
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 225
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Trying to get property 'routes' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 225
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 237
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Trying to get property 'type_of_delivery' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 237
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 249
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Trying to get property 'days_of_work' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 249
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 261
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Trying to get property 'time_of_work' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 261
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 273
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Trying to get property 'vehicle_type' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 273
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 285
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 285
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home/priscapr/public_html/app/views/riders/dashboard.php on line 299
+[20-Sep-2022 23:44:01 UTC] PHP Notice:  Trying to get property 'filename' of non-object in /home/priscapr/public_html/app/views/riders/dashboard.php on line 299
+[20-Sep-2022 23:46:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/app/libraries/Core.php on line 18
+[20-Sep-2022 23:48:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/priscapr/public_html/app/libraries/Core.php on line 18

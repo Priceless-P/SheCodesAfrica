@@ -1,0 +1,36 @@
+input.invalid{
+    background-color: #ffdddd;
+    }
+.tab{
+    display: none;
+}
+
+.show{
+border:solid 1px black;
+    padding:2%;
+    border-radius:15px;
+    margin-top:8%;
+    visibility:visible;
+    text-align:center;
+    margin:auto;
+ width:50%;
+}
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none;  
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.step.active {
+  opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+.step.finish {
+  background-color: #4CAF50;
+}
