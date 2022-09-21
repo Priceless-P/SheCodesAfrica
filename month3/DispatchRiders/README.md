@@ -26,7 +26,7 @@
 -  Edit Profile
 
 ### Project URL
-To see the project live please visit: https://priscapriceless.com.ng
+To see the project live please visit <a href"https://priscapriceless.com.ng"> here </a>
 
 ## Installation and Usage
 To use this script, all you have to is :
