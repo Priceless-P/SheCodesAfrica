@@ -6,7 +6,7 @@
 
  ## FEATURES
  
- - Form that where user specifies the details of the delivery they need to make and the dispatch rider selected r       receives an  email containing this information. In addition, each rider's phone number is dynamically displayed so the user can reach the rider as fast of possible without having to sign up first.
+ - Form  where user specifies the details of the delivery they need to make and the dispatch rider selected receives an  email containing this information. In addition, each rider's phone number is dynamically displayed so the user can reach the rider as fast as possible without having to sign up first.
  -  Registration page
  - Login Page: Redirects you to Users or Riders dashboard depending on the role you signed up for.
 
